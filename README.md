@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 I’m currently working on  <br>      Responsive UIs  <br><br>🤝 I’m looking to collaborate on* <br>      Frontend Projects  <br><br>🛠️ I’m looking for help with<br>     State Management  <br><br>🌱 I’m currently learning<br>      React Query  <br><br>💬 Ask me about<br>     Web Development  <br><br>⚡ Fun fact<br>      Dark Mode  
+🌌 I’m currently working on  <br>      Responsive UIs  <br><br>🤝 I’m looking to collaborate on <br>      Frontend Projects  <br><br>🛠️ I’m looking for help with<br>     State Management  <br><br>🌱 I’m currently learning<br>      React Query  <br><br>💬 Ask me about<br>     Web Development  <br><br>⚡ Fun fact<br>      Dark Mode  
 
 
 ## 🌐 Socials:
