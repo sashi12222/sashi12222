@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sashi Rajbanshi</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
+![](https://komarev.com/ghpvc/?username=sashi12222&style=flat-square)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashi12222" alt="sashi12222" /></a> </p>
