@@ -22,10 +22,6 @@ You can reach me at: sashiraj1222@gmail.com
 
 ![Visitor Count](https://count.getloli.com/get/@sashi12222)
 
-<div display = "flex">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sashi12222" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkk-1&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
  <!-- ![a](https://spotify-recently-played-readme.vercel.app/api?user=phgozba4jodlx0mkwrhk8x73k&count=4) 
