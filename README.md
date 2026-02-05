@@ -24,7 +24,7 @@ You can reach me at: sashiraj1222@gmail.com
 
 <div display = "flex">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sashi12222&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sashi12222" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkk-1&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
